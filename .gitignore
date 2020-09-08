@@ -1,0 +1,21 @@
+#C++
+*.out
+*.o
+
+#package file
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+#Intellij idea
+.idea/
+/idea/
+*.ipr
+*.iml
+*.iws
+
+# system ignore
+.DS_Store
+Thumbs.db
