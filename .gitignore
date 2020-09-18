@@ -13,8 +13,8 @@
 #Intellij idea
 .idea/
 /idea/
-/make-build-debug/
-/CMakeFiles/
+*/cmake-build-debug/
+*/CMakeFiles/
 /st/
 *.ipr
 *.iml
