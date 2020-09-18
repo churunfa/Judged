@@ -1,0 +1,1 @@
+/usr/bin/cc -g -Wall -Werror -O3 -std=c99 -pie -fPIC -g   CMakeFiles/sexec.dir/src/main.c.o CMakeFiles/sexec.dir/src/rules/c_cpp.c.o CMakeFiles/sexec.dir/src/rules/c_cpp_file_io.c.o CMakeFiles/sexec.dir/src/rules/general.c.o  -o ../output/sexec  -lpthread -lseccomp 

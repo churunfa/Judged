@@ -7,11 +7,15 @@
 *.ear
 *.zip
 *.tar.gz
+*.tat.xz
 *.rar
 
 #Intellij idea
 .idea/
 /idea/
+/make-build-debug/
+/CMakeFiles/
+/st/
 *.ipr
 *.iml
 *.iws
