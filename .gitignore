@@ -2,6 +2,9 @@
 *.out
 *.o
 
+cmake-build-debug/
+CMakeFiles/
+
 #package file
 *.war
 *.ear
@@ -12,10 +15,8 @@
 
 #Intellij idea
 .idea/
-/idea/
-*/cmake-build-debug/
-*/CMakeFiles/
-/st/
+idea/
+test/
 *.ipr
 *.iml
 *.iws

@@ -1,7 +1,0 @@
-/home/crf/myProject/qutOJ/Judged/test/execve_seccomp/cmake-build-debug/CMakeFiles/install/strip.dir
-/home/crf/myProject/qutOJ/Judged/test/execve_seccomp/cmake-build-debug/CMakeFiles/install/local.dir
-/home/crf/myProject/qutOJ/Judged/test/execve_seccomp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/crf/myProject/qutOJ/Judged/test/execve_seccomp/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/crf/myProject/qutOJ/Judged/test/execve_seccomp/cmake-build-debug/CMakeFiles/install.dir
-/home/crf/myProject/qutOJ/Judged/test/execve_seccomp/cmake-build-debug/CMakeFiles/sexec.dir
-/home/crf/myProject/qutOJ/Judged/test/execve_seccomp/cmake-build-debug/CMakeFiles/list_install_components.dir
