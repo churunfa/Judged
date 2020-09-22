@@ -17,6 +17,9 @@ CMakeFiles/
 .idea/
 idea/
 test/
+log
+data
+*/run*/
 *.ipr
 *.iml
 *.iws
